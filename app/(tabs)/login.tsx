@@ -1,11 +1,11 @@
+import { View, Text } from 'react-native'
 import React from 'react'
-import { Text } from 'react-native'
 
 const login = () => {
   return (
-    <Text>
-        login
-    </Text>
+    <View>
+      <Text>login</Text>
+    </View>
   )
 }
 
